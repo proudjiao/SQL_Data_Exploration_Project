@@ -1,10 +1,9 @@
 # This Repository is created to record and demonstrates my SQL skills!
 # [Free online sources where I learned my SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 # [Online Data Analysis project walkthrough](https://www.youtube.com/watch?v=qfyynHBFOsM)
-# 
 
 Project status: Ongoing.
-Covered: 1. database management basics 2. how to create, manipulate, and query databases with SQL codes 3. company data
+Topics Covered: 1. database management basics 2. SQL Basics 3. MySQL Mac Installation 4. Creating Tables 5. Inserting Data 6. Update & Delete 7. Company Database intro 8. Creating Company Database 9. Basic Queries.
 
 ## Why SQL?
 Knowing that my past internship experience as a Talent Acquisition Intern at McCANN WorldGroup and salesperson at MHP law firm does not help me get into a tech company with my current Computational Math and Statistics double major, I eagerly waited for the englightment of the Director of International Program, which might give me the slightest hint of where I should be heading next with what I currently have.
