@@ -1,6 +1,6 @@
 # This Repository is created to record and demonstrates my SQL skills!
-# [Free online sources where I learned my SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-# [Online Data Analysis project walkthrough](https://www.youtube.com/watch?v=qfyynHBFOsM)
+## [Free online sources where I learned my SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+## [Online Data Analysis project walkthrough](https://www.youtube.com/watch?v=qfyynHBFOsM)
 
 Project status: Ongoing. <br/>
 Topics Covered: 1. database management basics 2. SQL Basics 3. MySQL Mac Installation 4. Creating Tables 5. Inserting Data 6. Update & Delete 7. Company Database intro 8. Creating Company Database 9. Basic Queries.
